@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati reiciendis dolore ut? Doloribus sed dolores incidunt minima. Possimus ut suscipit inventore ipsam! Quod nesciunt aperiam laborum praesentium officiis. Nam veritatis quas quod rem, accusantium odio quia voluptate illo aspernatur alias consectetur dolor soluta ab maiores autem quos reiciendis dicta nemo repudiandae neque sunt! Quas soluta esse, dolorem voluptate accusamus alias ea, numquam doloribus commodi cupiditate dolores, quia exercitationem dolore. Rem dolorum et sit odio eveniet perferendis, animi nihil, sapiente tempora, explicabo atque quae quod repellendus eligendi quisquam quos laudantium dolor earum modi? Hic perferendis deleniti qui accusantium aspernatur ut et.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My second blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati reiciendis dolore ut? Doloribus sed dolores incidunt minima. Possimus ut suscipit inventore ipsam! Quod nesciunt aperiam laborum praesentium officiis. Nam veritatis quas quod rem, accusantium odio quia voluptate illo aspernatur alias consectetur dolor soluta ab maiores autem quos reiciendis dicta nemo repudiandae neque sunt! Quas soluta esse, dolorem voluptate accusamus alias ea, numquam doloribus commodi cupiditate dolores, quia exercitationem dolore. Rem dolorum et sit odio eveniet perferendis, animi nihil, sapiente tempora, explicabo atque quae quod repellendus eligendi quisquam quos laudantium dolor earum modi? Hic perferendis deleniti qui accusantium aspernatur ut et.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "sdaasd",
+      "body": "sdsad",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
